@@ -1,0 +1,8 @@
+{
+  "name": "3_ipi",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "d40da902"
+}
